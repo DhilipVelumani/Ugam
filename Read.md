@@ -1,16 +1,16 @@
-###Gaming poster devolpment using HTML
+#Gaming poster development using HTML
   Page is scable on any desktop and mobile phones
   supports responsiveness
   single page application 
-###Technologies used
+#Technologies used
   HTML
   CSS
   BOOTSTRAP 4
-###OUTPUT Screenshot  
+#OUTPUT Screenshot  
     Attached final output screenshot in screenshot folder
     Screenshot for desktop  
     Screenshot for mobile.
-###To Run  
+#To Run  
    open index.html in any browser
   
   
